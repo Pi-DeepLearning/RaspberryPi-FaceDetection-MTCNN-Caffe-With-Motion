@@ -15,6 +15,7 @@ Also a motion detection trigger will help to improve the quality.
 5. WebCam(D-Link DCS-932L)  
   I have it on hand, so have to write a IPCamera class for it.  
   You can simply use a Camera Model of PI (OV5647), it need Camera White Balance and parameter finetune. (PR Welcome)  
+
 ### Tell mtcnn where pycaffe is
 Edit mtcnn/_init_paths.py, change **caffe_path** to your own. 
 
