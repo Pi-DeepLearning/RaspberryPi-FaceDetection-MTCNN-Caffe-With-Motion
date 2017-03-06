@@ -1,4 +1,4 @@
-# MTCNN with Motion Detection
+# MTCNN with Motion Detection On Raspberry Pi 3
 
 The Python version of [MTCNN](https://github.com/kpzhang93/MTCNN_face_detection_alignment) running on Raspberry Pi 3 with Love.  
 Also a motion detection trigger will help to improve the quality.
